@@ -7,5 +7,4 @@ Welcome to my profile! I'm a student at Neue Fische, full-time. I love to travel
 <br/>Thanks for visiting and I'd love to [connect](https://www.linkedin.com/in/martinkienemund/)!
 
 ## Where are you hoping to travel next? :airplane: :earth_americas: :luggage:
-
 <img src="https://raw.githubusercontent.com/JessicaLim8/JessicaLim8/master/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
